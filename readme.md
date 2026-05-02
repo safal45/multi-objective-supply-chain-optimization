@@ -14,7 +14,7 @@ Design an efficient vaccine distribution system across India:
 * Cold-chain constraints (temperature-sensitive vaccines)
 * Trade-offs between cost, waste, and environmental impact
 
-👉 Optimize simultaneously:
+👉 **Objective:** Simultaneously minimize:
 
 * 💰 Total Cost
 * 🧊 Vaccine Waste
@@ -36,14 +36,15 @@ Design an efficient vaccine distribution system across India:
 
 ### 🔹 MILP (Exact Optimization)
 
-* Solved using `scipy.milp` (HiGHS solver)
-* Provides **provably optimal solutions** for smaller instances
-* Uses sparse constraint modeling for efficiency
+* Mathematical formulation solved using `scipy.milp` (HiGHS solver)
+* Provides **provably optimal solutions** for small/medium instances
+* Used as a **benchmark and lower bound**
 
 ---
 
 ### 🔹 NSGA-II (Multi-objective Optimization)
 
+* Evolutionary algorithm for large-scale problems
 * Optimizes:
 
   * Cost
@@ -55,17 +56,27 @@ Design an efficient vaccine distribution system across India:
 
 ## 🔬 Research Contribution
 
-This project combines **exact optimization (MILP)** and **metaheuristic algorithms (NSGA-II)**:
+This project combines **exact optimization (MILP)** and **metaheuristic methods (NSGA-II)**:
 
-* MILP → optimal solutions (small/medium scale)
-* LP relaxation → lower bound for full-scale problem
-* NSGA-II → scalable near-optimal solutions
+* MILP → Optimal solutions (limited scalability)
+* LP relaxation → Lower bound for full-scale problem
+* NSGA-II → Scalable near-optimal solutions
 
-### 📊 Key Insight
+👉 Demonstrates how heuristic methods approximate optimal solutions in real-world logistics systems.
 
-* Exact methods do not scale to large networks
-* Heuristic methods efficiently solve real-world scale problems
-* Results validate solution quality against theoretical lower bounds
+---
+
+## ⚙️ How It Works
+
+1. Generate supply chain network (suppliers, DCs, retailers)
+2. Formulate MILP model for exact optimization
+3. Apply NSGA-II for large-scale multi-objective optimization
+4. Evaluate solutions based on:
+
+   * Cost
+   * Waste
+   * Emissions
+5. Generate Pareto front for decision analysis
 
 ---
 
@@ -73,22 +84,31 @@ This project combines **exact optimization (MILP)** and **metaheuristic algorith
 
 * 💰 Best Cost: ~₹7 Cr
 * 📉 Significant waste reduction
-* 🌍 CO₂ emissions optimized
+* 🌍 CO₂ emissions optimized (~18% improvement)
 * 🏢 Optimal DCs opened: ~8
+
+---
+
+## 📊 Key Insights
+
+* NSGA-II achieves near-optimal solutions compared to MILP bounds
+* Trade-off exists between cost, waste, and emissions
+* Increasing DCs reduces transport cost but increases fixed cost
+* Pareto front enables better decision-making in logistics planning
 
 ---
 
 ## 📊 Visualizations
 
-### 🔹 GA / NSGA Convergence
+### 🔹 Convergence
 
 ![GA](graphs/ga_convergence.png)
 
-### 🔹 Pareto Front
+### 🔹 Pareto Front (Cost vs Waste)
 
 ![Pareto](graphs/pareto_2d.png)
 
-### 🔹 3D Pareto
+### 🔹 3D Pareto (Cost–Waste–Emissions)
 
 ![3D](graphs/pareto_3d.png)
 
@@ -106,10 +126,10 @@ This project combines **exact optimization (MILP)** and **metaheuristic algorith
 
 * ✅ Distance-based decay modeling
 * ✅ Dynamic refrigeration decision
-* ✅ Capacity constraints (strict)
+* ✅ Strict capacity constraints
 * ✅ Multi-objective optimization
-* ✅ Large-scale (615-node network)
-* ✅ Realistic supply chain simulation
+* ✅ Large-scale real-world simulation
+* ✅ Pareto front analysis
 
 ---
 
@@ -118,7 +138,8 @@ This project combines **exact optimization (MILP)** and **metaheuristic algorith
 ```
 nsga2.py      → Multi-objective optimization  
 milp.py       → Exact optimization model  
-graphs/       → Visual outputs  
+graphs/       → Visualization outputs  
+data/         → Input datasets  
 docs/         → Project report  
 ```
 
@@ -138,25 +159,17 @@ python nsga2.py
 * Python
 * NumPy, Pandas
 * SciPy (MILP solver)
-* Evolutionary Algorithms
+* Evolutionary Algorithms (NSGA-II)
 * Matplotlib
 
 ---
 
-## 🎯 Why This Project Matters
+## 🎯 Applications
 
-* Real-world logistics optimization
-* Applicable to:
-
-  * Vaccine distribution
-  * E-commerce supply chain
-  * Sustainable logistics
-
-👉 Demonstrates:
-
-* Optimization modelling
-* Algorithm design
-* Research-level thinking
+* Vaccine distribution systems
+* E-commerce logistics optimization
+* Cold-chain supply management
+* Sustainable transportation planning
 
 ---
 
@@ -168,4 +181,4 @@ Optimization & AI Enthusiast
 
 ---
 
-## ⭐ If you like this project, give it a star!
+## ⭐ If you like this project, consider giving it a star!

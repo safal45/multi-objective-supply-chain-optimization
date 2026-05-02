@@ -32,11 +32,11 @@ BASE_R      = 0.01; ALPHA_R  = 0.00002
 # ─────────────────────────────────────────────────────────────────────────────
 class MILPData:
     def __init__(self, ns_use=None, nd_use=None, nr_use=None):
-        sup    = pd.read_csv(f"data_dir/suppliers.csv")
-        dcs    = pd.read_csv(f"data_dir/dcs.csv")
-        ret    = pd.read_csv(f"data_dir/retailers.csv")
-        arc_sd = pd.read_csv(f"data_dir/arcs_supplier_to_dc.csv")
-        arc_dr = pd.read_csv(f"data_dir/arcs_dc_to_retailer.csv")
+        sup    = pd.read_csv(f"data/suppliers.csv")
+        dcs    = pd.read_csv(f"data/dcs.csv")
+        ret    = pd.read_csv(f"data/retailers.csv")
+        arc_sd = pd.read_csv(f"data/arcs_supplier_to_dc.csv")
+        arc_dr = pd.read_csv(f"data/arcs_dc_to_retailer.csv")
 
         if ns_use: sup = sup.iloc[:ns_use].copy()
         if nd_use: dcs = dcs.iloc[:nd_use].copy()

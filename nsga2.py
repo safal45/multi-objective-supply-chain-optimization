@@ -114,11 +114,11 @@ class SupplyChainData:
         print("  Loading supply-chain data (v4.0) …")
         t0 = time.time()
 
-        sup    = pd.read_csv(f"data_dir/suppliers.csv")
-        dcs    = pd.read_csv(f"data_dir/dcs.csv")
-        ret    = pd.read_csv(f"data_dir/retailers.csv")
-        arc_sd = pd.read_csv(f"data_dir/arcs_supplier_to_dc.csv")
-        arc_dr = pd.read_csv(f"data_dir/arcs_dc_to_retailer.csv")
+        sup    = pd.read_csv(f"data/suppliers.csv")
+        dcs    = pd.read_csv(f"data/dcs.csv")
+        ret    = pd.read_csv(f"data/retailers.csv")
+        arc_sd = pd.read_csv(f"data/arcs_supplier_to_dc.csv")
+        arc_dr = pd.read_csv(f"data/arcs_dc_to_retailer.csv")
 
         self.S  = list(sup["supplier_id"])
         self.D  = list(dcs["dc_id"])
