@@ -1,0 +1,501 @@
+retailer_id,name,type,state,zone,lat,lon,monthly_demand_units,nearest_dc,service_level_pct,max_lead_time_hrs
+R001,CHC Maharashtra 001,CHC,Maharashtra,West,19.304,72.9159,3070,D001,95.3,36
+R002,CHC Maharashtra 002,CHC,Maharashtra,West,19.1569,72.8089,3755,D001,85.4,36
+R003,PHC Maharashtra 003,PHC,Maharashtra,West,19.0131,72.8755,1308,D001,94.1,48
+R004,CHC Maharashtra 004,CHC,Maharashtra,West,19.1578,73.3386,5092,D001,85.1,36
+R005,District Hospital Maharashtra 005,District Hospital,Maharashtra,West,18.988,72.6021,7538,D001,98.4,24
+R006,PHC Maharashtra 006,PHC,Maharashtra,West,18.6126,73.9208,2576,D002,93.5,48
+R007,District Hospital Maharashtra 007,District Hospital,Maharashtra,West,18.4687,73.4306,16940,D002,90.3,24
+R008,CHC Maharashtra 008,CHC,Maharashtra,West,18.7419,73.428,5272,D002,93.1,36
+R009,District Hospital Maharashtra 009,District Hospital,Maharashtra,West,18.7112,73.9163,9077,D002,86.1,24
+R010,PHC Maharashtra 010,PHC,Maharashtra,West,18.7079,74.0023,2162,D002,90.1,48
+R011,PHC Maharashtra 011,PHC,Maharashtra,West,21.2025,79.3221,2751,D003,94.1,48
+R012,CHC Maharashtra 012,CHC,Maharashtra,West,21.4015,79.5954,2863,D003,90.3,36
+R013,Sub-District Hospital Maharashtra 013,Sub-District Hospital,Maharashtra,West,20.8772,78.7401,7386,D003,96.8,30
+R014,District Hospital Maharashtra 014,District Hospital,Maharashtra,West,21.1546,79.1591,9377,D003,88.7,24
+R015,PHC Maharashtra 015,PHC,Maharashtra,West,21.7424,78.8484,1535,D003,94.2,48
+R016,PHC Maharashtra 016,PHC,Maharashtra,West,20.3026,73.5965,1437,D004,88.5,48
+R017,CHC Maharashtra 017,CHC,Maharashtra,West,19.9623,74.2566,5397,D004,90.6,36
+R018,PHC Maharashtra 018,PHC,Maharashtra,West,20.3868,73.7834,1097,D004,85.7,48
+R019,PHC Maharashtra 019,PHC,Maharashtra,West,19.5936,73.3465,1745,D004,85.9,48
+R020,PHC Maharashtra 020,PHC,Maharashtra,West,20.3999,73.7794,2818,D004,97.1,48
+R021,PHC Maharashtra 021,PHC,Maharashtra,West,19.7837,74.8147,1969,D005,88.7,48
+R022,CHC Maharashtra 022,CHC,Maharashtra,West,20.1351,75.5756,3865,D005,98.4,36
+R023,Urban PHC Maharashtra 023,Urban PHC,Maharashtra,West,19.844,75.7494,2238,D005,97.8,24
+R024,Urban PHC Maharashtra 024,Urban PHC,Maharashtra,West,19.7333,75.827,3475,D005,87.1,24
+R025,District Hospital Maharashtra 025,District Hospital,Maharashtra,West,19.3224,75.1946,11849,D005,85.0,24
+R026,PHC Maharashtra 026,PHC,Maharashtra,West,17.3728,74.329,2637,D006,96.6,48
+R027,PHC Maharashtra 027,PHC,Maharashtra,West,17.3015,74.4805,2771,D006,86.2,48
+R028,PHC Maharashtra 028,PHC,Maharashtra,West,17.2119,74.4892,2417,D006,86.8,48
+R029,PHC Maharashtra 029,PHC,Maharashtra,West,16.4917,74.1713,2625,D006,90.9,48
+R030,PHC Maharashtra 030,PHC,Maharashtra,West,16.1831,74.106,1313,D006,89.4,48
+R031,Sub-District Hospital Maharashtra 031,Sub-District Hospital,Maharashtra,West,17.4592,75.617,6426,D007,86.7,30
+R032,PHC Maharashtra 032,PHC,Maharashtra,West,17.4273,76.3015,1369,D007,88.1,48
+R033,PHC Maharashtra 033,PHC,Maharashtra,West,17.5242,75.7526,2690,D007,97.0,48
+R034,PHC Maharashtra 034,PHC,Maharashtra,West,17.6973,76.4266,1338,D007,86.9,48
+R035,Urban PHC Maharashtra 035,Urban PHC,Maharashtra,West,17.3312,75.7413,3980,D007,96.3,24
+R036,PHC Maharashtra 036,PHC,Maharashtra,West,21.2078,77.9583,1748,D008,91.5,48
+R037,District Hospital Maharashtra 037,District Hospital,Maharashtra,West,20.6032,77.0785,6881,D008,90.6,24
+R038,PHC Maharashtra 038,PHC,Maharashtra,West,21.0695,77.5781,1291,D008,91.3,48
+R039,PHC Maharashtra 039,PHC,Maharashtra,West,20.8939,77.9776,2724,D008,91.2,48
+R040,Urban PHC Maharashtra 040,Urban PHC,Maharashtra,West,20.8567,77.7259,4597,D008,96.7,24
+R041,Sub-District Hospital Uttar Pradesh 041,Sub-District Hospital,Uttar Pradesh,North,27.4002,80.6368,4597,D009,91.8,30
+R042,PHC Uttar Pradesh 042,PHC,Uttar Pradesh,North,26.7779,81.0015,1733,D009,98.8,48
+R043,PHC Uttar Pradesh 043,PHC,Uttar Pradesh,North,26.9216,80.5602,1822,D009,98.4,48
+R044,Sub-District Hospital Uttar Pradesh 044,Sub-District Hospital,Uttar Pradesh,North,26.3485,80.7421,4528,D009,89.2,30
+R045,Sub-District Hospital Uttar Pradesh 045,Sub-District Hospital,Uttar Pradesh,North,26.4852,80.7262,8087,D009,85.8,30
+R046,CHC Uttar Pradesh 046,CHC,Uttar Pradesh,North,25.8288,80.3195,2966,D010,98.5,36
+R047,PHC Uttar Pradesh 047,PHC,Uttar Pradesh,North,26.6253,80.7912,2337,D010,88.3,48
+R048,PHC Uttar Pradesh 048,PHC,Uttar Pradesh,North,26.613,80.1817,2172,D010,93.7,48
+R049,PHC Uttar Pradesh 049,PHC,Uttar Pradesh,North,26.1054,80.1087,2866,D010,87.9,48
+R050,District Hospital Uttar Pradesh 050,District Hospital,Uttar Pradesh,North,26.4721,80.68,14060,D010,89.2,24
+R051,PHC Uttar Pradesh 051,PHC,Uttar Pradesh,North,27.1778,77.9024,1894,D011,99.0,48
+R052,Sub-District Hospital Uttar Pradesh 052,Sub-District Hospital,Uttar Pradesh,North,27.3461,78.1025,5191,D011,98.1,30
+R053,Urban PHC Uttar Pradesh 053,Urban PHC,Uttar Pradesh,North,27.3906,77.7802,2273,D011,96.7,24
+R054,District Hospital Uttar Pradesh 054,District Hospital,Uttar Pradesh,North,26.6328,77.4914,13847,D011,85.1,24
+R055,District Hospital Uttar Pradesh 055,District Hospital,Uttar Pradesh,North,27.0261,78.5361,17267,D011,86.9,24
+R056,PHC Uttar Pradesh 056,PHC,Uttar Pradesh,North,25.6452,83.2625,1515,D012,93.5,48
+R057,District Hospital Uttar Pradesh 057,District Hospital,Uttar Pradesh,North,25.4537,83.4757,9167,D012,91.8,24
+R058,Urban PHC Uttar Pradesh 058,Urban PHC,Uttar Pradesh,North,25.3786,82.8761,3070,D012,88.9,24
+R059,PHC Uttar Pradesh 059,PHC,Uttar Pradesh,North,25.3805,82.4525,1494,D012,95.4,48
+R060,CHC Uttar Pradesh 060,CHC,Uttar Pradesh,North,25.2713,82.9989,2670,D012,97.4,36
+R061,Urban PHC Uttar Pradesh 061,Urban PHC,Uttar Pradesh,North,24.8517,81.6558,3547,D013,87.1,24
+R062,PHC Uttar Pradesh 062,PHC,Uttar Pradesh,North,25.2023,82.5209,2584,D013,97.0,48
+R063,Urban PHC Uttar Pradesh 063,Urban PHC,Uttar Pradesh,North,25.4888,82.0755,2108,D013,95.9,24
+R064,Urban PHC Uttar Pradesh 064,Urban PHC,Uttar Pradesh,North,25.0495,82.1317,2263,D013,98.0,24
+R065,Urban PHC Uttar Pradesh 065,Urban PHC,Uttar Pradesh,North,26.0221,81.7485,4444,D013,85.3,24
+R066,District Hospital Uttar Pradesh 066,District Hospital,Uttar Pradesh,North,28.6517,78.3764,15626,D014,97.1,24
+R067,District Hospital Uttar Pradesh 067,District Hospital,Uttar Pradesh,North,28.9237,78.3624,7297,D014,97.2,24
+R068,Urban PHC Uttar Pradesh 068,Urban PHC,Uttar Pradesh,North,29.0874,78.3784,3180,D014,89.3,24
+R069,District Hospital Uttar Pradesh 069,District Hospital,Uttar Pradesh,North,28.9931,77.7755,8317,D014,89.6,24
+R070,Urban PHC Uttar Pradesh 070,Urban PHC,Uttar Pradesh,North,29.2131,77.6512,3724,D014,90.6,24
+R071,Sub-District Hospital Uttar Pradesh 071,Sub-District Hospital,Uttar Pradesh,North,27.7049,79.2561,4292,D015,98.6,30
+R072,PHC Uttar Pradesh 072,PHC,Uttar Pradesh,North,28.5852,79.3709,1181,D015,91.1,48
+R073,District Hospital Uttar Pradesh 073,District Hospital,Uttar Pradesh,North,28.1899,79.9063,12137,D015,90.4,24
+R074,CHC Uttar Pradesh 074,CHC,Uttar Pradesh,North,28.3515,80.0256,2406,D015,98.0,36
+R075,CHC Uttar Pradesh 075,CHC,Uttar Pradesh,North,28.2627,78.8209,4814,D015,90.1,36
+R076,PHC Uttar Pradesh 076,PHC,Uttar Pradesh,North,26.623,83.1154,1600,D016,96.9,48
+R077,District Hospital Uttar Pradesh 077,District Hospital,Uttar Pradesh,North,26.6816,83.6436,10900,D016,90.6,24
+R078,PHC Uttar Pradesh 078,PHC,Uttar Pradesh,North,26.99,83.6376,2878,D016,94.5,48
+R079,Urban PHC Uttar Pradesh 079,Urban PHC,Uttar Pradesh,North,26.5748,83.1886,3443,D016,85.0,24
+R080,PHC Uttar Pradesh 080,PHC,Uttar Pradesh,North,26.3654,83.5819,2295,D016,91.5,48
+R081,PHC Uttar Pradesh 081,PHC,Uttar Pradesh,North,27.9799,78.49,2798,D017,96.1,48
+R082,PHC Uttar Pradesh 082,PHC,Uttar Pradesh,North,28.2362,78.3141,2251,D017,89.7,48
+R083,District Hospital Uttar Pradesh 083,District Hospital,Uttar Pradesh,North,27.901,77.5227,8695,D017,87.8,24
+R084,PHC Uttar Pradesh 084,PHC,Uttar Pradesh,North,27.9093,78.502,2693,D017,86.0,48
+R085,PHC Uttar Pradesh 085,PHC,Uttar Pradesh,North,27.7764,77.9427,2380,D017,91.9,48
+R086,PHC Uttar Pradesh 086,PHC,Uttar Pradesh,North,28.8114,78.727,2491,D018,95.8,48
+R087,PHC Uttar Pradesh 087,PHC,Uttar Pradesh,North,28.6925,78.8581,2914,D018,92.3,48
+R088,PHC Uttar Pradesh 088,PHC,Uttar Pradesh,North,28.8417,79.4791,1891,D018,96.2,48
+R089,CHC Uttar Pradesh 089,CHC,Uttar Pradesh,North,29.2847,78.7345,5820,D018,97.5,36
+R090,CHC Uttar Pradesh 090,CHC,Uttar Pradesh,North,28.7645,78.3407,5390,D018,92.7,36
+R091,Urban PHC Tamil Nadu 091,Urban PHC,Tamil Nadu,South,13.0681,79.8955,2362,D019,88.5,24
+R092,CHC Tamil Nadu 092,CHC,Tamil Nadu,South,13.1221,79.8649,4268,D019,88.8,36
+R093,PHC Tamil Nadu 093,PHC,Tamil Nadu,South,13.0318,80.4995,1477,D019,92.6,48
+R094,PHC Tamil Nadu 094,PHC,Tamil Nadu,South,13.1431,80.7947,2201,D019,85.9,48
+R095,PHC Tamil Nadu 095,PHC,Tamil Nadu,South,12.7683,80.1822,1266,D019,90.9,48
+R096,Urban PHC Tamil Nadu 096,Urban PHC,Tamil Nadu,South,10.572,76.6913,4006,D020,95.7,24
+R097,PHC Tamil Nadu 097,PHC,Tamil Nadu,South,11.2993,76.9665,2288,D020,96.9,48
+R098,Sub-District Hospital Tamil Nadu 098,Sub-District Hospital,Tamil Nadu,South,10.5364,77.2288,6303,D020,93.4,30
+R099,PHC Tamil Nadu 099,PHC,Tamil Nadu,South,11.0816,77.2953,934,D020,89.7,48
+R100,CHC Tamil Nadu 100,CHC,Tamil Nadu,South,10.8877,77.046,3742,D020,86.8,36
+R101,CHC Tamil Nadu 101,CHC,Tamil Nadu,South,10.232,78.1731,4062,D021,85.4,36
+R102,CHC Tamil Nadu 102,CHC,Tamil Nadu,South,10.1601,78.3927,2365,D021,90.3,36
+R103,PHC Tamil Nadu 103,PHC,Tamil Nadu,South,9.6655,78.6228,1588,D021,95.5,48
+R104,District Hospital Tamil Nadu 104,District Hospital,Tamil Nadu,South,9.9238,78.2217,5713,D021,92.6,24
+R105,Sub-District Hospital Tamil Nadu 105,Sub-District Hospital,Tamil Nadu,South,9.6406,78.5177,7596,D021,94.1,30
+R106,District Hospital Tamil Nadu 106,District Hospital,Tamil Nadu,South,10.9613,78.6477,5724,D022,87.1,24
+R107,PHC Tamil Nadu 107,PHC,Tamil Nadu,South,10.584,78.3253,1287,D022,94.8,48
+R108,District Hospital Tamil Nadu 108,District Hospital,Tamil Nadu,South,11.0154,79.1078,13727,D022,86.6,24
+R109,District Hospital Tamil Nadu 109,District Hospital,Tamil Nadu,South,10.9057,78.6783,5782,D022,89.4,24
+R110,CHC Tamil Nadu 110,CHC,Tamil Nadu,South,11.0928,78.6219,4559,D022,86.1,36
+R111,CHC Tamil Nadu 111,CHC,Tamil Nadu,South,11.5849,78.0626,4749,D023,96.9,36
+R112,CHC Tamil Nadu 112,CHC,Tamil Nadu,South,12.1785,78.6456,4782,D023,89.9,36
+R113,PHC Tamil Nadu 113,PHC,Tamil Nadu,South,11.3984,78.433,1518,D023,96.9,48
+R114,District Hospital Tamil Nadu 114,District Hospital,Tamil Nadu,South,12.2114,78.5824,12491,D023,96.6,24
+R115,District Hospital Tamil Nadu 115,District Hospital,Tamil Nadu,South,11.1673,78.3638,16120,D023,88.8,24
+R116,District Hospital Tamil Nadu 116,District Hospital,Tamil Nadu,South,8.3528,77.6674,10291,D024,95.2,24
+R117,PHC Tamil Nadu 117,PHC,Tamil Nadu,South,9.0756,77.2643,1042,D024,97.3,48
+R118,PHC Tamil Nadu 118,PHC,Tamil Nadu,South,8.2677,77.8585,1588,D024,85.4,48
+R119,Urban PHC Tamil Nadu 119,Urban PHC,Tamil Nadu,South,8.7921,77.9301,3844,D024,89.8,24
+R120,Urban PHC Tamil Nadu 120,Urban PHC,Tamil Nadu,South,8.6439,77.5332,1677,D024,98.3,24
+R121,PHC Tamil Nadu 121,PHC,Tamil Nadu,South,12.8464,78.7544,2297,D025,94.7,48
+R122,CHC Tamil Nadu 122,CHC,Tamil Nadu,South,12.3367,79.1668,2507,D025,88.1,36
+R123,CHC Tamil Nadu 123,CHC,Tamil Nadu,South,12.765,79.5541,3761,D025,92.4,36
+R124,PHC Tamil Nadu 124,PHC,Tamil Nadu,South,12.9096,78.8571,2194,D025,88.8,48
+R125,PHC Tamil Nadu 125,PHC,Tamil Nadu,South,13.0437,79.2561,1103,D025,92.5,48
+R126,District Hospital Karnataka 126,District Hospital,Karnataka,South,13.0474,77.7748,10826,D026,95.1,24
+R127,Sub-District Hospital Karnataka 127,Sub-District Hospital,Karnataka,South,12.7382,77.5572,3852,D026,87.7,30
+R128,PHC Karnataka 128,PHC,Karnataka,South,12.995,77.6452,1878,D026,88.8,48
+R129,Sub-District Hospital Karnataka 129,Sub-District Hospital,Karnataka,South,12.4841,77.4203,3994,D026,97.2,30
+R130,PHC Karnataka 130,PHC,Karnataka,South,13.2733,77.276,1757,D026,91.2,48
+R131,PHC Karnataka 131,PHC,Karnataka,South,12.9415,76.8605,1773,D027,96.5,48
+R132,PHC Karnataka 132,PHC,Karnataka,South,12.7161,76.8555,980,D027,87.1,48
+R133,CHC Karnataka 133,CHC,Karnataka,South,12.058,77.3313,2590,D027,95.7,36
+R134,CHC Karnataka 134,CHC,Karnataka,South,12.3458,76.4438,3924,D027,91.3,36
+R135,PHC Karnataka 135,PHC,Karnataka,South,12.7515,76.0768,1451,D027,93.7,48
+R136,CHC Karnataka 136,CHC,Karnataka,South,15.3221,74.4147,2885,D028,88.0,36
+R137,CHC Karnataka 137,CHC,Karnataka,South,15.4543,75.2646,2447,D028,85.0,36
+R138,PHC Karnataka 138,PHC,Karnataka,South,15.1637,74.9846,1312,D028,94.9,48
+R139,District Hospital Karnataka 139,District Hospital,Karnataka,South,14.8763,75.2745,15663,D028,96.0,24
+R140,CHC Karnataka 140,CHC,Karnataka,South,15.0068,74.5294,3602,D028,92.6,36
+R141,CHC Karnataka 141,CHC,Karnataka,South,13.4205,74.519,2435,D029,87.3,36
+R142,PHC Karnataka 142,PHC,Karnataka,South,12.9113,74.4152,1419,D029,86.7,48
+R143,CHC Karnataka 143,CHC,Karnataka,South,12.7023,74.1909,3851,D029,91.9,36
+R144,PHC Karnataka 144,PHC,Karnataka,South,13.2405,74.9417,1482,D029,88.5,48
+R145,PHC Karnataka 145,PHC,Karnataka,South,13.5066,74.7077,1955,D029,98.3,48
+R146,Sub-District Hospital Karnataka 146,Sub-District Hospital,Karnataka,South,15.7431,74.2892,3521,D030,95.6,30
+R147,PHC Karnataka 147,PHC,Karnataka,South,15.4645,73.9354,1219,D030,93.2,48
+R148,CHC Karnataka 148,CHC,Karnataka,South,15.7431,74.5035,3348,D030,89.7,36
+R149,CHC Karnataka 149,CHC,Karnataka,South,16.0175,74.2806,4489,D030,89.0,36
+R150,Urban PHC Karnataka 150,Urban PHC,Karnataka,South,16.0118,74.0986,2900,D030,89.4,24
+R151,PHC Karnataka 151,PHC,Karnataka,South,17.6423,76.7722,1842,D031,98.8,48
+R152,CHC Karnataka 152,CHC,Karnataka,South,17.017,76.7445,2819,D031,90.1,36
+R153,District Hospital Karnataka 153,District Hospital,Karnataka,South,16.9358,76.4195,7739,D031,92.7,24
+R154,Urban PHC Karnataka 154,Urban PHC,Karnataka,South,16.8514,77.0396,1983,D031,98.6,24
+R155,CHC Karnataka 155,CHC,Karnataka,South,17.3399,76.9932,4017,D031,92.7,36
+R156,PHC Rajasthan 156,PHC,Rajasthan,North,27.5735,75.7512,1901,D032,86.6,48
+R157,District Hospital Rajasthan 157,District Hospital,Rajasthan,North,26.3832,75.7934,12106,D032,88.8,24
+R158,District Hospital Rajasthan 158,District Hospital,Rajasthan,North,27.1205,75.7582,12615,D032,90.4,24
+R159,Urban PHC Rajasthan 159,Urban PHC,Rajasthan,North,26.2741,75.7502,4392,D032,88.9,24
+R160,District Hospital Rajasthan 160,District Hospital,Rajasthan,North,26.3304,76.1736,12092,D032,96.5,24
+R161,PHC Rajasthan 161,PHC,Rajasthan,North,26.1062,73.4939,2997,D033,91.9,48
+R162,PHC Rajasthan 162,PHC,Rajasthan,North,25.9688,72.9498,2085,D033,92.6,48
+R163,PHC Rajasthan 163,PHC,Rajasthan,North,26.1637,73.1974,2382,D033,93.0,48
+R164,PHC Rajasthan 164,PHC,Rajasthan,North,26.2508,72.9423,2479,D033,94.9,48
+R165,District Hospital Rajasthan 165,District Hospital,Rajasthan,North,25.8665,73.3853,15848,D033,98.7,24
+R166,PHC Rajasthan 166,PHC,Rajasthan,North,24.9595,73.8099,2163,D034,97.2,48
+R167,Urban PHC Rajasthan 167,Urban PHC,Rajasthan,North,24.2128,73.8738,3170,D034,95.1,24
+R168,PHC Rajasthan 168,PHC,Rajasthan,North,24.5013,73.5768,1917,D034,98.6,48
+R169,PHC Rajasthan 169,PHC,Rajasthan,North,24.4149,73.2142,2697,D034,96.9,48
+R170,Urban PHC Rajasthan 170,Urban PHC,Rajasthan,North,24.3966,73.9075,3956,D034,95.6,24
+R171,Urban PHC Rajasthan 171,Urban PHC,Rajasthan,North,25.3028,75.8874,3693,D035,97.9,24
+R172,Sub-District Hospital Rajasthan 172,Sub-District Hospital,Rajasthan,North,25.2069,75.491,4190,D035,93.9,30
+R173,Urban PHC Rajasthan 173,Urban PHC,Rajasthan,North,24.7317,76.0617,4510,D035,85.6,24
+R174,District Hospital Rajasthan 174,District Hospital,Rajasthan,North,25.1335,76.1824,7746,D035,92.4,24
+R175,CHC Rajasthan 175,CHC,Rajasthan,North,25.256,75.6943,2684,D035,97.2,36
+R176,CHC Rajasthan 176,CHC,Rajasthan,North,28.061,74.0604,2915,D036,91.5,36
+R177,PHC Rajasthan 177,PHC,Rajasthan,North,28.0212,73.3701,2601,D036,97.6,48
+R178,CHC Rajasthan 178,CHC,Rajasthan,North,28.2106,73.6378,3644,D036,93.2,36
+R179,CHC Rajasthan 179,CHC,Rajasthan,North,27.8326,73.4229,5443,D036,87.8,36
+R180,PHC Rajasthan 180,PHC,Rajasthan,North,27.8187,73.3364,2126,D036,93.0,48
+R181,Sub-District Hospital Rajasthan 181,Sub-District Hospital,Rajasthan,North,26.252,75.3966,7549,D037,88.8,30
+R182,CHC Rajasthan 182,CHC,Rajasthan,North,26.2347,74.0768,2576,D037,93.5,36
+R183,PHC Rajasthan 183,PHC,Rajasthan,North,26.6464,74.4891,2589,D037,93.5,48
+R184,PHC Rajasthan 184,PHC,Rajasthan,North,26.1462,74.2472,2342,D037,95.1,48
+R185,CHC Rajasthan 185,CHC,Rajasthan,North,26.6973,74.1942,5652,D037,94.0,36
+R186,PHC West Bengal 186,PHC,West Bengal,East,22.1658,88.5357,1840,D038,86.3,48
+R187,PHC West Bengal 187,PHC,West Bengal,East,22.57,88.1866,922,D038,92.6,48
+R188,Sub-District Hospital West Bengal 188,Sub-District Hospital,West Bengal,East,21.9227,88.2257,6437,D038,88.6,30
+R189,District Hospital West Bengal 189,District Hospital,West Bengal,East,21.9865,88.4366,11219,D038,89.7,24
+R190,PHC West Bengal 190,PHC,West Bengal,East,22.709,88.3288,2198,D038,97.0,48
+R191,District Hospital West Bengal 191,District Hospital,West Bengal,East,23.2889,88.1685,11741,D039,90.1,24
+R192,District Hospital West Bengal 192,District Hospital,West Bengal,East,23.0018,88.3022,8593,D039,94.4,24
+R193,CHC West Bengal 193,CHC,West Bengal,East,22.0779,87.9339,4338,D039,86.5,36
+R194,PHC West Bengal 194,PHC,West Bengal,East,23.2304,88.3726,1578,D039,97.8,48
+R195,PHC West Bengal 195,PHC,West Bengal,East,23.1507,88.5157,2111,D039,89.2,48
+R196,PHC West Bengal 196,PHC,West Bengal,East,23.9574,87.8864,1185,D040,91.9,48
+R197,PHC West Bengal 197,PHC,West Bengal,East,23.6242,87.2149,1414,D040,94.4,48
+R198,District Hospital West Bengal 198,District Hospital,West Bengal,East,23.8299,87.1927,11180,D040,87.2,24
+R199,PHC West Bengal 199,PHC,West Bengal,East,23.8257,87.5507,1344,D040,98.3,48
+R200,PHC West Bengal 200,PHC,West Bengal,East,23.2837,87.585,2174,D040,97.0,48
+R201,PHC West Bengal 201,PHC,West Bengal,East,23.5265,86.5515,2216,D041,90.0,48
+R202,PHC West Bengal 202,PHC,West Bengal,East,23.736,87.0956,2017,D041,91.4,48
+R203,CHC West Bengal 203,CHC,West Bengal,East,23.4067,86.5854,1857,D041,96.0,36
+R204,PHC West Bengal 204,PHC,West Bengal,East,23.9887,87.2973,824,D041,95.7,48
+R205,PHC West Bengal 205,PHC,West Bengal,East,23.8232,87.6412,1222,D041,87.1,48
+R206,Urban PHC West Bengal 206,Urban PHC,West Bengal,East,27.352,88.4078,1675,D042,86.8,24
+R207,PHC West Bengal 207,PHC,West Bengal,East,26.9517,88.885,759,D042,85.2,48
+R208,District Hospital West Bengal 208,District Hospital,West Bengal,East,26.7471,88.6898,6068,D042,85.7,24
+R209,District Hospital West Bengal 209,District Hospital,West Bengal,East,26.1856,88.295,8786,D042,95.9,24
+R210,CHC West Bengal 210,CHC,West Bengal,East,27.0256,88.6684,4352,D042,85.6,36
+R211,District Hospital West Bengal 211,District Hospital,West Bengal,East,23.4989,87.5407,8622,D043,98.5,24
+R212,PHC West Bengal 212,PHC,West Bengal,East,22.9187,87.9068,1769,D043,91.9,48
+R213,Urban PHC West Bengal 213,Urban PHC,West Bengal,East,23.3216,87.9098,2718,D043,85.9,24
+R214,PHC West Bengal 214,PHC,West Bengal,East,22.9538,87.5259,1217,D043,98.9,48
+R215,CHC West Bengal 215,CHC,West Bengal,East,22.7974,88.0032,2067,D043,94.8,36
+R216,Urban PHC Gujarat 216,Urban PHC,Gujarat,West,22.6933,72.073,3797,D044,88.0,24
+R217,PHC Gujarat 217,PHC,Gujarat,West,23.0594,72.8665,1806,D044,90.8,48
+R218,PHC Gujarat 218,PHC,Gujarat,West,22.5795,72.81,1651,D044,87.1,48
+R219,Urban PHC Gujarat 219,Urban PHC,Gujarat,West,23.5763,72.8414,1993,D044,86.4,24
+R220,District Hospital Gujarat 220,District Hospital,Gujarat,West,23.1818,72.148,12494,D044,92.9,24
+R221,PHC Gujarat 221,PHC,Gujarat,West,21.3745,73.0426,2220,D045,95.5,48
+R222,Urban PHC Gujarat 222,Urban PHC,Gujarat,West,21.0437,72.0935,3451,D045,89.9,24
+R223,CHC Gujarat 223,CHC,Gujarat,West,21.2836,73.341,3073,D045,86.5,36
+R224,District Hospital Gujarat 224,District Hospital,Gujarat,West,20.7929,73.2754,12352,D045,96.3,24
+R225,District Hospital Gujarat 225,District Hospital,Gujarat,West,21.7606,72.729,12806,D045,94.0,24
+R226,PHC Gujarat 226,PHC,Gujarat,West,22.8536,72.8991,1442,D046,87.5,48
+R227,District Hospital Gujarat 227,District Hospital,Gujarat,West,22.2077,73.4579,5820,D046,97.2,24
+R228,CHC Gujarat 228,CHC,Gujarat,West,22.1928,73.2701,4484,D046,85.4,36
+R229,District Hospital Gujarat 229,District Hospital,Gujarat,West,22.3786,73.528,9670,D046,90.2,24
+R230,District Hospital Gujarat 230,District Hospital,Gujarat,West,22.3791,72.7245,6727,D046,85.7,24
+R231,PHC Gujarat 231,PHC,Gujarat,West,21.9345,70.4373,1451,D047,94.3,48
+R232,PHC Gujarat 232,PHC,Gujarat,West,22.0893,70.8906,2395,D047,86.6,48
+R233,PHC Gujarat 233,PHC,Gujarat,West,22.1995,71.3346,1871,D047,94.3,48
+R234,PHC Gujarat 234,PHC,Gujarat,West,21.9479,71.0997,935,D047,89.2,48
+R235,PHC Gujarat 235,PHC,Gujarat,West,22.4456,70.9809,1561,D047,85.1,48
+R236,District Hospital Gujarat 236,District Hospital,Gujarat,West,21.9004,72.4422,13842,D048,92.0,24
+R237,District Hospital Gujarat 237,District Hospital,Gujarat,West,21.7969,72.0572,15660,D048,85.6,24
+R238,PHC Gujarat 238,PHC,Gujarat,West,22.3166,71.8307,2045,D048,93.0,48
+R239,District Hospital Gujarat 239,District Hospital,Gujarat,West,21.6577,72.2173,5989,D048,89.5,24
+R240,District Hospital Gujarat 240,District Hospital,Gujarat,West,21.317,71.71,16327,D048,86.2,24
+R241,District Hospital Gujarat 241,District Hospital,Gujarat,West,23.2342,73.1184,11775,D049,90.5,24
+R242,PHC Gujarat 242,PHC,Gujarat,West,23.0716,72.8855,1248,D049,92.1,48
+R243,PHC Gujarat 243,PHC,Gujarat,West,22.5597,72.5922,1603,D049,95.2,48
+R244,District Hospital Gujarat 244,District Hospital,Gujarat,West,23.2969,72.4325,7434,D049,87.8,24
+R245,CHC Gujarat 245,CHC,Gujarat,West,23.2469,72.107,2911,D049,95.8,36
+R246,PHC Madhya Pradesh 246,PHC,Madhya Pradesh,Central,23.2755,76.805,1328,D050,97.9,48
+R247,CHC Madhya Pradesh 247,CHC,Madhya Pradesh,Central,22.9517,77.0307,3903,D050,93.8,36
+R248,PHC Madhya Pradesh 248,PHC,Madhya Pradesh,Central,23.5726,77.5683,1117,D050,88.8,48
+R249,PHC Madhya Pradesh 249,PHC,Madhya Pradesh,Central,23.0054,77.3998,1333,D050,85.8,48
+R250,District Hospital Madhya Pradesh 250,District Hospital,Madhya Pradesh,Central,23.8172,77.73,11519,D050,93.6,24
+R251,CHC Madhya Pradesh 251,CHC,Madhya Pradesh,Central,22.3115,75.9633,3719,D051,97.5,36
+R252,PHC Madhya Pradesh 252,PHC,Madhya Pradesh,Central,22.8978,75.3681,1144,D051,91.7,48
+R253,PHC Madhya Pradesh 253,PHC,Madhya Pradesh,Central,22.826,75.9049,1979,D051,89.8,48
+R254,District Hospital Madhya Pradesh 254,District Hospital,Madhya Pradesh,Central,22.558,75.8527,6355,D051,91.1,24
+R255,PHC Madhya Pradesh 255,PHC,Madhya Pradesh,Central,22.5688,75.8342,1218,D051,89.0,48
+R256,PHC Madhya Pradesh 256,PHC,Madhya Pradesh,Central,22.9448,80.4015,1820,D052,94.1,48
+R257,PHC Madhya Pradesh 257,PHC,Madhya Pradesh,Central,23.5987,80.2928,1090,D052,95.1,48
+R258,CHC Madhya Pradesh 258,CHC,Madhya Pradesh,Central,23.7098,79.6029,2550,D052,93.2,36
+R259,PHC Madhya Pradesh 259,PHC,Madhya Pradesh,Central,22.7713,80.602,1689,D052,90.5,48
+R260,CHC Madhya Pradesh 260,CHC,Madhya Pradesh,Central,23.4167,79.8814,2660,D052,96.1,36
+R261,District Hospital Madhya Pradesh 261,District Hospital,Madhya Pradesh,Central,25.9272,77.5914,10529,D053,94.6,24
+R262,CHC Madhya Pradesh 262,CHC,Madhya Pradesh,Central,26.017,77.8897,2622,D053,90.1,36
+R263,PHC Madhya Pradesh 263,PHC,Madhya Pradesh,Central,26.3712,78.9275,1382,D053,88.2,48
+R264,PHC Madhya Pradesh 264,PHC,Madhya Pradesh,Central,26.763,78.5026,826,D053,95.8,48
+R265,District Hospital Madhya Pradesh 265,District Hospital,Madhya Pradesh,Central,26.2708,78.1303,7112,D053,95.7,24
+R266,PHC Madhya Pradesh 266,PHC,Madhya Pradesh,Central,23.066,75.9062,1881,D054,95.8,48
+R267,District Hospital Madhya Pradesh 267,District Hospital,Madhya Pradesh,Central,23.349,76.1082,7742,D054,94.5,24
+R268,PHC Madhya Pradesh 268,PHC,Madhya Pradesh,Central,22.9534,75.8773,1761,D054,91.3,48
+R269,CHC Madhya Pradesh 269,CHC,Madhya Pradesh,Central,22.9606,76.3874,2895,D054,96.7,36
+R270,PHC Madhya Pradesh 270,PHC,Madhya Pradesh,Central,23.8479,75.5366,1347,D054,88.9,48
+R271,PHC Bihar 271,PHC,Bihar,East,24.9065,85.0047,1969,D055,96.2,48
+R272,PHC Bihar 272,PHC,Bihar,East,25.5941,85.6679,2057,D055,92.8,48
+R273,PHC Bihar 273,PHC,Bihar,East,25.9456,84.5711,1156,D055,95.7,48
+R274,PHC Bihar 274,PHC,Bihar,East,25.7139,85.0477,1389,D055,98.2,48
+R275,PHC Bihar 275,PHC,Bihar,East,25.326,85.2319,760,D055,85.7,48
+R276,CHC Bihar 276,CHC,Bihar,East,24.8554,85.7861,2812,D056,85.4,36
+R277,Urban PHC Bihar 277,Urban PHC,Bihar,East,25.0487,84.5476,3130,D056,86.9,24
+R278,PHC Bihar 278,PHC,Bihar,East,25.039,84.5015,932,D056,94.9,48
+R279,PHC Bihar 279,PHC,Bihar,East,24.8899,85.003,1111,D056,96.7,48
+R280,CHC Bihar 280,CHC,Bihar,East,24.7341,84.5615,2100,D056,89.0,36
+R281,PHC Bihar 281,PHC,Bihar,East,26.4337,85.4992,1934,D057,91.4,48
+R282,PHC Bihar 282,PHC,Bihar,East,26.4907,85.1108,745,D057,92.2,48
+R283,PHC Bihar 283,PHC,Bihar,East,26.3274,85.6838,1660,D057,88.4,48
+R284,PHC Bihar 284,PHC,Bihar,East,26.067,85.2926,2211,D057,85.9,48
+R285,CHC Bihar 285,CHC,Bihar,East,25.4076,85.3545,3296,D057,90.5,36
+R286,PHC Bihar 286,PHC,Bihar,East,24.7766,86.395,1108,D058,85.2,48
+R287,District Hospital Bihar 287,District Hospital,Bihar,East,24.9394,87.4786,10154,D058,95.8,24
+R288,District Hospital Bihar 288,District Hospital,Bihar,East,25.2053,87.0562,9414,D058,96.4,24
+R289,PHC Bihar 289,PHC,Bihar,East,25.3079,86.594,1783,D058,93.8,48
+R290,District Hospital Bihar 290,District Hospital,Bihar,East,25.7678,87.2273,8619,D058,89.1,24
+R291,PHC Bihar 291,PHC,Bihar,East,26.1771,85.9694,2148,D059,92.2,48
+R292,Sub-District Hospital Bihar 292,Sub-District Hospital,Bihar,East,25.9459,85.8275,6089,D059,87.7,30
+R293,PHC Bihar 293,PHC,Bihar,East,26.2755,85.203,1227,D059,86.7,48
+R294,PHC Bihar 294,PHC,Bihar,East,26.5748,85.5016,2088,D059,90.4,48
+R295,Sub-District Hospital Bihar 295,Sub-District Hospital,Bihar,East,25.7731,85.9019,6859,D059,92.3,30
+R296,District Hospital Andhra Pradesh 296,District Hospital,Andhra Pradesh,South,16.4921,80.5465,12126,D060,96.5,24
+R297,CHC Andhra Pradesh 297,CHC,Andhra Pradesh,South,16.4633,80.7412,4381,D060,89.3,36
+R298,CHC Andhra Pradesh 298,CHC,Andhra Pradesh,South,16.0492,80.8867,3360,D060,85.6,36
+R299,Urban PHC Andhra Pradesh 299,Urban PHC,Andhra Pradesh,South,16.074,81.2479,2405,D060,98.7,24
+R300,Urban PHC Andhra Pradesh 300,Urban PHC,Andhra Pradesh,South,16.9301,80.8734,2649,D060,96.2,24
+R301,CHC Andhra Pradesh 301,CHC,Andhra Pradesh,South,17.8221,83.1751,4204,D061,95.9,36
+R302,PHC Andhra Pradesh 302,PHC,Andhra Pradesh,South,18.2077,83.4642,1565,D061,90.4,48
+R303,CHC Andhra Pradesh 303,CHC,Andhra Pradesh,South,17.2888,82.8941,5331,D061,90.2,36
+R304,District Hospital Andhra Pradesh 304,District Hospital,Andhra Pradesh,South,17.3267,83.0291,9878,D061,94.1,24
+R305,PHC Andhra Pradesh 305,PHC,Andhra Pradesh,South,18.0969,83.5906,1813,D061,90.4,48
+R306,CHC Andhra Pradesh 306,CHC,Andhra Pradesh,South,16.2904,80.666,3672,D062,98.9,36
+R307,PHC Andhra Pradesh 307,PHC,Andhra Pradesh,South,16.6329,80.2397,1109,D062,96.9,48
+R308,PHC Andhra Pradesh 308,PHC,Andhra Pradesh,South,16.5848,80.2223,1044,D062,94.5,48
+R309,District Hospital Andhra Pradesh 309,District Hospital,Andhra Pradesh,South,16.1882,80.7006,6214,D062,92.6,24
+R310,Urban PHC Andhra Pradesh 310,Urban PHC,Andhra Pradesh,South,16.6195,79.9959,4200,D062,93.9,24
+R311,District Hospital Andhra Pradesh 311,District Hospital,Andhra Pradesh,South,13.5019,79.412,7710,D063,86.9,24
+R312,District Hospital Andhra Pradesh 312,District Hospital,Andhra Pradesh,South,14.0425,79.4901,9558,D063,96.3,24
+R313,CHC Andhra Pradesh 313,CHC,Andhra Pradesh,South,13.55,79.3504,3220,D063,99.0,36
+R314,District Hospital Andhra Pradesh 314,District Hospital,Andhra Pradesh,South,13.0714,79.3258,14556,D063,86.0,24
+R315,Sub-District Hospital Andhra Pradesh 315,Sub-District Hospital,Andhra Pradesh,South,13.4103,79.1391,7040,D063,89.8,30
+R316,Urban PHC Andhra Pradesh 316,Urban PHC,Andhra Pradesh,South,15.9183,77.5501,2150,D064,98.5,24
+R317,PHC Andhra Pradesh 317,PHC,Andhra Pradesh,South,15.8979,77.9917,1112,D064,87.1,48
+R318,PHC Andhra Pradesh 318,PHC,Andhra Pradesh,South,15.597,78.5265,1527,D064,98.2,48
+R319,Urban PHC Andhra Pradesh 319,Urban PHC,Andhra Pradesh,South,15.9496,77.8537,3396,D064,92.7,24
+R320,PHC Andhra Pradesh 320,PHC,Andhra Pradesh,South,15.696,78.4358,1819,D064,87.4,48
+R321,Urban PHC Telangana 321,Urban PHC,Telangana,South,17.6625,78.91,3631,D065,93.5,24
+R322,District Hospital Telangana 322,District Hospital,Telangana,South,16.8299,78.2409,5812,D065,85.6,24
+R323,CHC Telangana 323,CHC,Telangana,South,16.9553,78.251,4730,D065,90.8,36
+R324,CHC Telangana 324,CHC,Telangana,South,16.9162,78.4928,3155,D065,98.4,36
+R325,PHC Telangana 325,PHC,Telangana,South,17.5561,77.9856,1436,D065,86.0,48
+R326,PHC Telangana 326,PHC,Telangana,South,17.6326,79.7391,1261,D066,93.5,48
+R327,PHC Telangana 327,PHC,Telangana,South,17.8715,79.0364,2489,D066,98.7,48
+R328,PHC Telangana 328,PHC,Telangana,South,17.6867,79.9184,1476,D066,91.5,48
+R329,PHC Telangana 329,PHC,Telangana,South,17.9798,79.7102,1422,D066,90.4,48
+R330,CHC Telangana 330,CHC,Telangana,South,17.9852,80.2561,2727,D066,89.6,36
+R331,CHC Telangana 331,CHC,Telangana,South,18.4572,78.6406,3844,D067,92.2,36
+R332,PHC Telangana 332,PHC,Telangana,South,18.6507,78.1539,2647,D067,92.1,48
+R333,Sub-District Hospital Telangana 333,Sub-District Hospital,Telangana,South,18.7341,78.3862,3577,D067,91.9,30
+R334,Urban PHC Telangana 334,Urban PHC,Telangana,South,18.4671,77.7782,3125,D067,96.9,24
+R335,PHC Telangana 335,PHC,Telangana,South,19.0693,77.7128,2308,D067,90.1,48
+R336,PHC Telangana 336,PHC,Telangana,South,18.279,79.0493,1914,D068,86.0,48
+R337,CHC Telangana 337,CHC,Telangana,South,18.4598,78.8831,5463,D068,94.5,36
+R338,PHC Telangana 338,PHC,Telangana,South,18.746,79.0777,2366,D068,89.7,48
+R339,Urban PHC Telangana 339,Urban PHC,Telangana,South,18.4442,78.9396,3050,D068,92.0,24
+R340,PHC Telangana 340,PHC,Telangana,South,18.6146,79.3447,1765,D068,91.4,48
+R341,CHC Punjab 341,CHC,Punjab,North,30.4679,76.7492,4607,D069,87.3,36
+R342,Sub-District Hospital Punjab 342,Sub-District Hospital,Punjab,North,30.7167,76.4924,5618,D069,96.6,30
+R343,CHC Punjab 343,CHC,Punjab,North,30.6698,76.501,5336,D069,90.2,36
+R344,CHC Punjab 344,CHC,Punjab,North,31.1692,76.715,5268,D069,95.2,36
+R345,CHC Punjab 345,CHC,Punjab,North,31.0939,76.8503,5881,D069,96.0,36
+R346,District Hospital Punjab 346,District Hospital,Punjab,North,30.4306,75.5665,13002,D070,87.4,24
+R347,CHC Punjab 347,CHC,Punjab,North,30.4532,75.3688,2931,D070,94.5,36
+R348,PHC Punjab 348,PHC,Punjab,North,31.014,75.8128,998,D070,89.4,48
+R349,PHC Punjab 349,PHC,Punjab,North,30.7833,75.5076,2540,D070,97.9,48
+R350,Urban PHC Punjab 350,Urban PHC,Punjab,North,30.8933,75.7562,2214,D070,87.9,24
+R351,PHC Punjab 351,PHC,Punjab,North,31.4244,74.472,1600,D071,87.4,48
+R352,Urban PHC Punjab 352,Urban PHC,Punjab,North,31.4781,75.1517,4115,D071,95.1,24
+R353,CHC Punjab 353,CHC,Punjab,North,31.4746,74.3689,3092,D071,88.5,36
+R354,CHC Punjab 354,CHC,Punjab,North,31.7445,75.687,3471,D071,89.0,36
+R355,PHC Punjab 355,PHC,Punjab,North,31.5616,74.5799,1671,D071,98.1,48
+R356,District Hospital Punjab 356,District Hospital,Punjab,North,31.3073,75.7237,14119,D072,90.3,24
+R357,Sub-District Hospital Punjab 357,Sub-District Hospital,Punjab,North,31.6134,74.8418,8427,D072,89.1,30
+R358,PHC Punjab 358,PHC,Punjab,North,31.2637,75.2578,1862,D072,88.6,48
+R359,PHC Punjab 359,PHC,Punjab,North,31.4473,76.0334,2863,D072,94.7,48
+R360,PHC Punjab 360,PHC,Punjab,North,30.996,75.2327,1454,D072,94.4,48
+R361,CHC Haryana 361,CHC,Haryana,North,28.4074,76.9568,3887,D073,95.0,36
+R362,PHC Haryana 362,PHC,Haryana,North,28.4658,76.9719,2082,D073,98.0,48
+R363,PHC Haryana 363,PHC,Haryana,North,29.0456,76.7383,1933,D073,87.8,48
+R364,Sub-District Hospital Haryana 364,Sub-District Hospital,Haryana,North,28.2513,77.5204,9047,D073,86.3,30
+R365,CHC Haryana 365,CHC,Haryana,North,27.9388,76.8936,5772,D073,97.8,36
+R366,PHC Haryana 366,PHC,Haryana,North,28.5299,77.1922,2836,D074,99.0,48
+R367,PHC Haryana 367,PHC,Haryana,North,27.7313,77.3402,2922,D074,98.0,48
+R368,Urban PHC Haryana 368,Urban PHC,Haryana,North,28.837,77.3462,2121,D074,98.8,24
+R369,PHC Haryana 369,PHC,Haryana,North,28.8201,77.2857,1967,D074,98.1,48
+R370,Urban PHC Haryana 370,Urban PHC,Haryana,North,28.2371,77.3576,2137,D074,87.3,24
+R371,PHC Haryana 371,PHC,Haryana,North,29.1414,75.9171,2462,D075,96.1,48
+R372,CHC Haryana 372,CHC,Haryana,North,29.1567,75.5345,5482,D075,97.6,36
+R373,District Hospital Haryana 373,District Hospital,Haryana,North,29.046,75.7103,14031,D075,87.6,24
+R374,PHC Haryana 374,PHC,Haryana,North,29.0543,75.9396,1492,D075,88.3,48
+R375,District Hospital Haryana 375,District Hospital,Haryana,North,29.3879,75.6405,14674,D075,85.2,24
+R376,CHC Haryana 376,CHC,Haryana,North,30.3476,76.6823,2825,D076,89.3,36
+R377,PHC Haryana 377,PHC,Haryana,North,29.7284,76.7648,2395,D076,89.4,48
+R378,PHC Haryana 378,PHC,Haryana,North,30.5894,76.6342,2213,D076,88.1,48
+R379,PHC Haryana 379,PHC,Haryana,North,30.6927,77.3001,2195,D076,90.8,48
+R380,CHC Haryana 380,CHC,Haryana,North,29.9768,76.8629,4790,D076,88.1,36
+R381,PHC Odisha 381,PHC,Odisha,East,20.315,85.1478,845,D077,91.3,48
+R382,District Hospital Odisha 382,District Hospital,Odisha,East,20.672,86.0387,5055,D077,92.7,24
+R383,CHC Odisha 383,CHC,Odisha,East,20.1648,85.7557,2685,D077,92.3,36
+R384,PHC Odisha 384,PHC,Odisha,East,20.4175,86.2744,859,D077,92.1,48
+R385,District Hospital Odisha 385,District Hospital,Odisha,East,19.9209,85.945,8611,D077,85.8,24
+R386,PHC Odisha 386,PHC,Odisha,East,20.6493,85.3493,1325,D078,96.4,48
+R387,District Hospital Odisha 387,District Hospital,Odisha,East,20.3958,85.8449,7600,D078,85.9,24
+R388,Sub-District Hospital Odisha 388,Sub-District Hospital,Odisha,East,20.5465,85.8439,6901,D078,85.4,30
+R389,PHC Odisha 389,PHC,Odisha,East,20.5294,85.2869,2216,D078,94.0,48
+R390,PHC Odisha 390,PHC,Odisha,East,20.7657,85.8685,2050,D078,97.7,48
+R391,PHC Odisha 391,PHC,Odisha,East,22.0585,84.3686,1545,D079,94.1,48
+R392,PHC Odisha 392,PHC,Odisha,East,22.4377,85.2507,1529,D079,95.2,48
+R393,PHC Odisha 393,PHC,Odisha,East,22.3208,84.855,1176,D079,94.4,48
+R394,CHC Odisha 394,CHC,Odisha,East,21.6711,84.7241,2468,D079,89.8,36
+R395,PHC Odisha 395,PHC,Odisha,East,22.7545,84.6321,892,D079,96.3,48
+R396,PHC Odisha 396,PHC,Odisha,East,19.3797,84.1171,743,D080,87.9,48
+R397,PHC Odisha 397,PHC,Odisha,East,19.754,84.8937,1796,D080,85.7,48
+R398,District Hospital Odisha 398,District Hospital,Odisha,East,19.1488,84.9183,6455,D080,97.1,24
+R399,PHC Odisha 399,PHC,Odisha,East,19.0746,84.7879,1968,D080,95.2,48
+R400,PHC Odisha 400,PHC,Odisha,East,18.9071,84.4886,1210,D080,89.2,48
+R401,PHC Assam 401,PHC,Assam,Northeast,26.0406,91.5532,917,D081,85.9,48
+R402,Urban PHC Assam 402,Urban PHC,Assam,Northeast,26.6255,91.2312,2145,D081,91.0,24
+R403,PHC Assam 403,PHC,Assam,Northeast,26.8155,91.6047,1358,D081,96.0,48
+R404,PHC Assam 404,PHC,Assam,Northeast,26.0183,91.8177,1007,D081,95.6,48
+R405,PHC Assam 405,PHC,Assam,Northeast,26.2896,91.5118,1402,D081,96.3,48
+R406,Urban PHC Assam 406,Urban PHC,Assam,Northeast,26.8269,94.611,2025,D082,86.9,24
+R407,PHC Assam 407,PHC,Assam,Northeast,27.6121,95.4321,1657,D082,96.9,48
+R408,PHC Assam 408,PHC,Assam,Northeast,27.4452,94.7187,879,D082,94.4,48
+R409,CHC Assam 409,CHC,Assam,Northeast,27.5935,94.7736,2999,D082,95.1,36
+R410,CHC Assam 410,CHC,Assam,Northeast,26.8456,95.004,2099,D082,98.4,36
+R411,PHC Assam 411,PHC,Assam,Northeast,25.4749,92.4843,699,D083,99.0,48
+R412,PHC Assam 412,PHC,Assam,Northeast,24.8544,93.278,803,D083,97.8,48
+R413,CHC Assam 413,CHC,Assam,Northeast,24.8815,92.4501,2520,D083,90.0,36
+R414,PHC Assam 414,PHC,Assam,Northeast,24.4535,92.7451,677,D083,98.7,48
+R415,PHC Assam 415,PHC,Assam,Northeast,25.1875,92.1616,1001,D083,90.8,48
+R416,CHC Assam 416,CHC,Assam,Northeast,26.7723,94.3608,1947,D084,98.1,36
+R417,CHC Assam 417,CHC,Assam,Northeast,26.6179,94.2847,2092,D084,90.3,36
+R418,District Hospital Assam 418,District Hospital,Assam,Northeast,26.2592,94.205,8293,D084,88.6,24
+R419,District Hospital Assam 419,District Hospital,Assam,Northeast,27.2146,94.0906,6934,D084,87.4,24
+R420,District Hospital Assam 420,District Hospital,Assam,Northeast,27.0048,94.7231,6918,D084,97.8,24
+R421,CHC Kerala 421,CHC,Kerala,South,8.4708,76.87,2311,D085,96.9,36
+R422,Urban PHC Kerala 422,Urban PHC,Kerala,South,8.2481,76.4422,2784,D085,96.8,24
+R423,PHC Kerala 423,PHC,Kerala,South,8.5105,76.8867,1825,D085,90.2,48
+R424,CHC Kerala 424,CHC,Kerala,South,8.2935,76.5322,3794,D085,91.8,36
+R425,PHC Kerala 425,PHC,Kerala,South,8.4738,76.9195,1870,D085,88.8,48
+R426,Sub-District Hospital Kerala 426,Sub-District Hospital,Kerala,South,10.5222,76.3322,7007,D086,96.3,30
+R427,Urban PHC Kerala 427,Urban PHC,Kerala,South,10.0174,76.3369,2059,D086,87.7,24
+R428,CHC Kerala 428,CHC,Kerala,South,10.0211,76.0572,3509,D086,90.2,36
+R429,PHC Kerala 429,PHC,Kerala,South,9.2758,75.9794,1302,D086,94.6,48
+R430,District Hospital Kerala 430,District Hospital,Kerala,South,9.5758,75.7454,13855,D086,86.3,24
+R431,PHC Kerala 431,PHC,Kerala,South,11.1803,75.7529,897,D087,87.4,48
+R432,PHC Kerala 432,PHC,Kerala,South,10.7326,76.0169,1938,D087,97.0,48
+R433,PHC Kerala 433,PHC,Kerala,South,11.1862,75.7672,1275,D087,97.2,48
+R434,Urban PHC Kerala 434,Urban PHC,Kerala,South,11.1832,75.7924,1854,D087,98.0,24
+R435,Urban PHC Kerala 435,Urban PHC,Kerala,South,11.1968,75.7537,4204,D087,89.4,24
+R436,Sub-District Hospital Kerala 436,Sub-District Hospital,Kerala,South,10.055,75.9217,7219,D088,90.6,30
+R437,PHC Kerala 437,PHC,Kerala,South,10.6361,76.3943,2440,D088,90.4,48
+R438,Urban PHC Kerala 438,Urban PHC,Kerala,South,10.2547,76.7066,2034,D088,98.8,24
+R439,District Hospital Kerala 439,District Hospital,Kerala,South,9.8242,76.2108,6090,D088,91.1,24
+R440,District Hospital Kerala 440,District Hospital,Kerala,South,10.2233,76.6982,16003,D088,90.6,24
+R441,District Hospital Jharkhand 441,District Hospital,Jharkhand,East,23.5699,85.3559,13433,D089,91.9,24
+R442,PHC Jharkhand 442,PHC,Jharkhand,East,23.6582,85.177,1759,D089,94.2,48
+R443,PHC Jharkhand 443,PHC,Jharkhand,East,22.9147,84.878,1811,D089,86.1,48
+R444,PHC Jharkhand 444,PHC,Jharkhand,East,23.2312,84.8089,1851,D089,89.4,48
+R445,PHC Jharkhand 445,PHC,Jharkhand,East,23.5973,85.3186,1270,D089,88.8,48
+R446,PHC Jharkhand 446,PHC,Jharkhand,East,22.9381,86.5519,1568,D090,90.7,48
+R447,PHC Jharkhand 447,PHC,Jharkhand,East,22.739,86.2959,1635,D090,89.5,48
+R448,PHC Jharkhand 448,PHC,Jharkhand,East,22.7248,86.5246,849,D090,97.6,48
+R449,Urban PHC Jharkhand 449,Urban PHC,Jharkhand,East,23.2321,86.1389,1731,D090,90.3,24
+R450,PHC Jharkhand 450,PHC,Jharkhand,East,22.6852,86.5922,816,D090,91.1,48
+R451,PHC Jharkhand 451,PHC,Jharkhand,East,23.6992,86.4409,1105,D091,88.5,48
+R452,CHC Jharkhand 452,CHC,Jharkhand,East,23.6484,86.3228,2088,D091,89.3,36
+R453,Urban PHC Jharkhand 453,Urban PHC,Jharkhand,East,23.5665,86.8714,3159,D091,89.6,24
+R454,PHC Jharkhand 454,PHC,Jharkhand,East,24.0459,85.8035,2210,D091,86.9,48
+R455,PHC Jharkhand 455,PHC,Jharkhand,East,23.9666,86.3662,1200,D091,98.5,48
+R456,Sub-District Hospital Chhattisgarh 456,Sub-District Hospital,Chhattisgarh,Central,21.1189,82.1631,4636,D092,93.1,30
+R457,PHC Chhattisgarh 457,PHC,Chhattisgarh,Central,20.8267,82.0793,1247,D092,86.6,48
+R458,CHC Chhattisgarh 458,CHC,Chhattisgarh,Central,20.9052,81.3865,3438,D092,92.7,36
+R459,Sub-District Hospital Chhattisgarh 459,Sub-District Hospital,Chhattisgarh,Central,20.7429,81.7638,4413,D092,89.1,30
+R460,CHC Chhattisgarh 460,CHC,Chhattisgarh,Central,21.496,81.0622,2743,D092,92.0,36
+R461,CHC Chhattisgarh 461,CHC,Chhattisgarh,Central,21.2413,81.9584,3523,D093,96.0,36
+R462,PHC Chhattisgarh 462,PHC,Chhattisgarh,Central,21.5849,81.4102,1259,D093,92.1,48
+R463,Urban PHC Chhattisgarh 463,Urban PHC,Chhattisgarh,Central,21.069,81.0203,2955,D093,90.0,24
+R464,Urban PHC Chhattisgarh 464,Urban PHC,Chhattisgarh,Central,20.7532,81.3159,1455,D093,95.8,24
+R465,CHC Chhattisgarh 465,CHC,Chhattisgarh,Central,20.9211,81.842,1812,D093,98.8,36
+R466,CHC Chhattisgarh 466,CHC,Chhattisgarh,Central,21.6325,82.4914,4162,D094,91.0,36
+R467,PHC Chhattisgarh 467,PHC,Chhattisgarh,Central,22.0582,82.5594,1429,D094,93.1,48
+R468,CHC Chhattisgarh 468,CHC,Chhattisgarh,Central,21.7881,82.2506,3669,D094,93.2,36
+R469,CHC Chhattisgarh 469,CHC,Chhattisgarh,Central,22.045,82.1941,1966,D094,90.8,36
+R470,Sub-District Hospital Chhattisgarh 470,Sub-District Hospital,Chhattisgarh,Central,22.5871,82.6285,3152,D094,89.4,30
+R471,PHC Himachal Pradesh 471,PHC,Himachal Pradesh,North,31.2042,77.5913,1931,D095,91.1,48
+R472,CHC Himachal Pradesh 472,CHC,Himachal Pradesh,North,31.0008,77.4362,5316,D095,86.6,36
+R473,District Hospital Himachal Pradesh 473,District Hospital,Himachal Pradesh,North,30.8042,76.703,7972,D095,98.8,24
+R474,PHC Himachal Pradesh 474,PHC,Himachal Pradesh,North,31.1748,77.3326,2102,D095,98.4,48
+R475,PHC Himachal Pradesh 475,PHC,Himachal Pradesh,North,30.9644,77.2847,2266,D095,91.0,48
+R476,PHC Himachal Pradesh 476,PHC,Himachal Pradesh,North,31.9653,76.1307,2168,D096,90.4,48
+R477,District Hospital Himachal Pradesh 477,District Hospital,Himachal Pradesh,North,32.2516,76.8973,15704,D096,85.9,24
+R478,PHC Himachal Pradesh 478,PHC,Himachal Pradesh,North,32.2187,76.1234,1625,D096,91.4,48
+R479,PHC Himachal Pradesh 479,PHC,Himachal Pradesh,North,32.3609,75.9089,2263,D096,93.4,48
+R480,CHC Himachal Pradesh 480,CHC,Himachal Pradesh,North,31.8605,76.0972,5443,D096,93.6,36
+R481,District Hospital Uttarakhand 481,District Hospital,Uttarakhand,North,30.2493,77.758,13373,D097,86.2,24
+R482,PHC Uttarakhand 482,PHC,Uttarakhand,North,30.502,78.2287,1333,D097,94.7,48
+R483,CHC Uttarakhand 483,CHC,Uttarakhand,North,30.1961,78.1109,3781,D097,87.6,36
+R484,CHC Uttarakhand 484,CHC,Uttarakhand,North,30.1491,77.5098,5999,D097,92.8,36
+R485,PHC Uttarakhand 485,PHC,Uttarakhand,North,30.4803,78.2625,1880,D097,85.8,48
+R486,PHC Uttarakhand 486,PHC,Uttarakhand,North,30.0827,78.1737,2623,D098,98.5,48
+R487,CHC Uttarakhand 487,CHC,Uttarakhand,North,29.4383,78.1827,3896,D098,96.8,36
+R488,PHC Uttarakhand 488,PHC,Uttarakhand,North,30.0029,78.202,2512,D098,89.1,48
+R489,PHC Uttarakhand 489,PHC,Uttarakhand,North,29.7914,78.1213,1892,D098,95.4,48
+R490,District Hospital Uttarakhand 490,District Hospital,Uttarakhand,North,29.83,78.1211,7370,D098,95.9,24
+R491,District Hospital Delhi 491,District Hospital,Delhi,North,28.3015,77.611,6499,D099,95.1,24
+R492,CHC Delhi 492,CHC,Delhi,North,28.8181,77.0941,5388,D099,95.5,36
+R493,PHC Delhi 493,PHC,Delhi,North,29.053,77.1008,1671,D099,96.4,48
+R494,PHC Delhi 494,PHC,Delhi,North,29.2728,77.0779,1443,D099,96.3,48
+R495,CHC Delhi 495,CHC,Delhi,North,28.3937,77.5856,4677,D099,87.3,36
+R496,PHC Goa 496,PHC,Goa,West,15.5407,74.0126,1036,D100,89.9,48
+R497,PHC Goa 497,PHC,Goa,West,15.235,73.7618,2296,D100,89.1,48
+R498,PHC Goa 498,PHC,Goa,West,15.9372,73.2536,2248,D100,86.3,48
+R499,Sub-District Hospital Goa 499,Sub-District Hospital,Goa,West,15.639,73.1542,9156,D100,97.1,30
+R500,PHC Goa 500,PHC,Goa,West,15.6333,73.6624,2310,D100,96.6,48

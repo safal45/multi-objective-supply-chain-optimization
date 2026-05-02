@@ -1,0 +1,101 @@
+dc_id,name,state,lat,lon,zone,tier,capacity_units,fixed_cost_lakhs,storage_cost_per_unit,electricity_reliability_pct
+D001,Mumbai Central WH,Maharashtra,19.076,72.8777,West,T1,1211776,183.6,1.78,79.3
+D002,Pune DC,Maharashtra,18.5204,73.8567,West,T2,367173,59.4,0.93,93.5
+D003,Nagpur DC,Maharashtra,21.1458,79.0882,West,T2,553116,41.1,1.68,79.5
+D004,Nashik DC,Maharashtra,19.9975,73.7898,West,T2,343499,64.6,1.63,87.7
+D005,Aurangabad DC,Maharashtra,19.8762,75.3433,West,T2,555869,90.1,0.96,98.2
+D006,Kolhapur DC,Maharashtra,16.705,74.2433,West,T2,482839,78.2,1.41,73.7
+D007,Solapur DC,Maharashtra,17.6599,75.9064,West,T2,430192,60.9,2.45,94.3
+D008,Amravati DC,Maharashtra,20.932,77.7523,West,T2,409373,52.5,2.21,81.1
+D009,Lucknow State WH,Uttar Pradesh,26.8467,80.9462,North,T1,1406007,137.0,2.25,93.3
+D010,Kanpur DC,Uttar Pradesh,26.4499,80.3319,North,T2,507853,84.5,0.88,88.9
+D011,Agra DC,Uttar Pradesh,27.1767,78.0081,North,T2,588672,64.9,1.01,95.2
+D012,Varanasi DC,Uttar Pradesh,25.3176,82.9739,North,T2,381360,64.7,2.49,83.6
+D013,Allahabad DC,Uttar Pradesh,25.4358,81.8463,North,T2,511020,94.1,2.3,80.2
+D014,Meerut DC,Uttar Pradesh,28.9845,77.7064,North,T2,293665,41.1,1.41,74.2
+D015,Bareilly DC,Uttar Pradesh,28.367,79.4304,North,T2,498393,93.7,1.08,82.7
+D016,Gorakhpur DC,Uttar Pradesh,26.7606,83.3732,North,T2,310174,82.2,2.08,83.6
+D017,Aligarh DC,Uttar Pradesh,27.8974,78.088,North,T2,197814,80.7,0.8,84.9
+D018,Moradabad DC,Uttar Pradesh,28.8386,78.7733,North,T2,219572,73.6,1.68,84.0
+D019,Chennai State WH,Tamil Nadu,13.0827,80.2707,South,T1,808454,210.4,2.19,98.7
+D020,Coimbatore DC,Tamil Nadu,11.0168,76.9558,South,T2,371414,80.1,1.61,78.2
+D021,Madurai DC,Tamil Nadu,9.9252,78.1198,South,T2,196835,82.5,0.97,80.5
+D022,Tiruchirappalli DC,Tamil Nadu,10.7905,78.7047,South,T2,306895,43.9,2.11,92.3
+D023,Salem DC,Tamil Nadu,11.6643,78.146,South,T2,219806,76.7,1.95,73.8
+D024,Tirunelveli DC,Tamil Nadu,8.7139,77.7567,South,T2,445326,35.6,1.91,83.9
+D025,Vellore DC,Tamil Nadu,12.9165,79.1325,South,T2,528762,48.8,2.07,96.8
+D026,Bengaluru State WH,Karnataka,12.9716,77.5946,South,T1,1446002,209.3,2.26,74.3
+D027,Mysuru DC,Karnataka,12.2958,76.6394,South,T2,202672,44.1,1.01,91.7
+D028,Hubli-Dharwad DC,Karnataka,15.3647,75.124,South,T2,334305,97.6,1.33,75.8
+D029,Mangaluru DC,Karnataka,12.9141,74.856,South,T2,295210,76.9,1.22,88.2
+D030,Belagavi DC,Karnataka,15.8497,74.4977,South,T2,528105,74.5,2.12,90.6
+D031,Kalaburagi DC,Karnataka,17.3297,76.8343,South,T2,594539,90.1,2.29,77.5
+D032,Jaipur State WH,Rajasthan,26.9124,75.7873,North,T1,1436408,186.2,2.07,80.0
+D033,Jodhpur DC,Rajasthan,26.2389,73.0243,North,T2,178609,85.9,2.15,78.5
+D034,Udaipur DC,Rajasthan,24.5854,73.7125,North,T2,352315,42.3,1.65,88.0
+D035,Kota DC,Rajasthan,25.2138,75.8648,North,T2,426974,92.8,0.82,81.7
+D036,Bikaner DC,Rajasthan,28.0229,73.3119,North,T2,315922,43.6,2.26,87.3
+D037,Ajmer DC,Rajasthan,26.4499,74.6399,North,T2,341581,70.5,1.09,84.7
+D038,Kolkata State WH,West Bengal,22.5726,88.3639,East,T1,876537,122.2,0.91,79.1
+D039,Howrah DC,West Bengal,22.5958,88.2636,East,T2,170880,95.0,2.41,82.7
+D040,Durgapur DC,West Bengal,23.5204,87.3119,East,T2,300202,75.9,1.65,83.2
+D041,Asansol DC,West Bengal,23.6889,86.9661,East,T2,517950,61.1,1.89,86.5
+D042,Siliguri DC,West Bengal,26.7271,88.3953,East,T2,230048,53.0,1.33,85.8
+D043,Bardhaman DC,West Bengal,23.2324,87.8615,East,T2,256534,98.3,1.06,80.8
+D044,Ahmedabad State WH,Gujarat,23.0225,72.5714,West,T1,1414923,202.5,2.22,90.4
+D045,Surat DC,Gujarat,21.1702,72.8311,West,T2,184663,55.2,1.54,97.7
+D046,Vadodara DC,Gujarat,22.3072,73.1812,West,T2,275114,38.8,0.95,83.7
+D047,Rajkot DC,Gujarat,22.3039,70.8022,West,T2,387697,74.8,0.89,90.0
+D048,Bhavnagar DC,Gujarat,21.7645,72.1519,West,T2,495008,83.1,1.0,91.1
+D049,Gandhinagar DC,Gujarat,23.2156,72.6369,West,T2,517787,35.7,1.64,81.4
+D050,Bhopal State WH,Madhya Pradesh,23.2599,77.4126,Central,T1,1342347,221.8,2.03,76.5
+D051,Indore DC,Madhya Pradesh,22.7196,75.8577,Central,T2,216548,83.7,2.28,91.8
+D052,Jabalpur DC,Madhya Pradesh,23.1815,79.9864,Central,T2,211895,85.1,0.85,93.8
+D053,Gwalior DC,Madhya Pradesh,26.2183,78.1828,Central,T2,292596,69.1,1.25,98.3
+D054,Ujjain DC,Madhya Pradesh,23.1765,75.7885,Central,T2,479007,40.0,1.57,81.7
+D055,Patna State WH,Bihar,25.5941,85.1376,East,T1,1323879,231.7,1.08,76.2
+D056,Gaya DC,Bihar,24.7914,84.9994,East,T2,555447,41.7,1.78,91.5
+D057,Muzaffarpur DC,Bihar,26.1197,85.391,East,T2,269749,83.2,0.8,95.2
+D058,Bhagalpur DC,Bihar,25.2425,86.9842,East,T2,156442,50.9,1.6,82.3
+D059,Darbhanga DC,Bihar,26.1542,85.8918,East,T2,228687,46.6,2.43,73.0
+D060,Vijayawada State WH,Andhra Pradesh,16.5062,80.648,South,T1,1487554,174.5,1.35,83.2
+D061,Visakhapatnam DC,Andhra Pradesh,17.6868,83.2185,South,T2,527638,55.8,2.2,87.4
+D062,Guntur DC,Andhra Pradesh,16.3067,80.4365,South,T2,212600,67.6,2.33,76.8
+D063,Tirupati DC,Andhra Pradesh,13.6288,79.4192,South,T2,571704,68.5,0.88,82.8
+D064,Kurnool DC,Andhra Pradesh,15.8281,78.0373,South,T2,393843,91.3,2.11,80.4
+D065,Hyderabad State WH,Telangana,17.385,78.4867,South,T1,890581,191.9,0.81,77.4
+D066,Warangal DC,Telangana,17.9784,79.5941,South,T2,445597,86.0,2.06,78.5
+D067,Nizamabad DC,Telangana,18.6725,78.0941,South,T2,343081,73.5,1.64,92.9
+D068,Karimnagar DC,Telangana,18.4386,79.1288,South,T2,252457,82.6,1.73,93.5
+D069,Chandigarh State WH,Punjab,30.7333,76.7794,North,T1,957880,120.8,1.5,78.3
+D070,Ludhiana DC,Punjab,30.901,75.8573,North,T2,331625,76.3,1.98,72.3
+D071,Amritsar DC,Punjab,31.634,74.8723,North,T2,325645,35.1,1.92,94.9
+D072,Jalandhar DC,Punjab,31.326,75.5762,North,T2,531270,55.0,1.15,98.5
+D073,Gurugram DC,Haryana,28.4595,77.0266,North,T2,370104,67.0,0.9,98.9
+D074,Faridabad DC,Haryana,28.4089,77.3178,North,T2,523110,53.2,0.87,78.2
+D075,Hisar DC,Haryana,29.1492,75.7217,North,T2,593287,68.8,1.99,82.1
+D076,Ambala DC,Haryana,30.3782,76.7767,North,T2,542114,40.5,0.96,75.6
+D077,Bhubaneswar State WH,Odisha,20.2961,85.8245,East,T1,1213507,129.7,1.77,83.7
+D078,Cuttack DC,Odisha,20.4625,85.883,East,T2,218528,50.4,1.24,80.5
+D079,Rourkela DC,Odisha,22.2604,84.8536,East,T2,569858,60.5,2.21,80.8
+D080,Berhampur DC,Odisha,19.315,84.7941,East,T2,387375,52.7,0.93,77.5
+D081,Guwahati State WH,Assam,26.1445,91.7362,Northeast,T1,1413110,134.2,0.98,84.1
+D082,Dibrugarh DC,Assam,27.4728,94.912,Northeast,T2,314643,61.4,1.71,98.0
+D083,Silchar DC,Assam,24.8333,92.7789,Northeast,T2,258861,64.4,1.59,95.0
+D084,Jorhat DC,Assam,26.7465,94.2026,Northeast,T2,197406,45.2,1.97,94.3
+D085,Thiruvananthapuram State WH,Kerala,8.5241,76.9366,South,T1,1432608,125.2,2.22,80.9
+D086,Kochi DC,Kerala,9.9312,76.2673,South,T2,197821,81.2,2.45,82.7
+D087,Kozhikode DC,Kerala,11.2588,75.7804,South,T2,175664,79.0,1.24,98.7
+D088,Thrissur DC,Kerala,10.5276,76.2144,South,T2,166295,96.9,2.25,87.0
+D089,Ranchi State WH,Jharkhand,23.3441,85.3096,East,T1,1376843,152.5,1.59,93.7
+D090,Jamshedpur DC,Jharkhand,22.8046,86.2029,East,T2,223291,42.9,0.9,93.1
+D091,Dhanbad DC,Jharkhand,23.7957,86.4304,East,T2,266543,43.5,2.2,82.1
+D092,Raipur State WH,Chhattisgarh,21.2514,81.6296,Central,T1,1460914,241.9,0.94,87.8
+D093,Bhilai DC,Chhattisgarh,21.2167,81.4333,Central,T2,576113,39.9,2.5,77.3
+D094,Bilaspur DC,Chhattisgarh,22.0796,82.1391,Central,T2,488683,63.8,1.02,96.4
+D095,Shimla DC,Himachal Pradesh,31.1048,77.1734,North,T2,584821,87.6,1.01,97.4
+D096,Kangra DC,Himachal Pradesh,32.0998,76.2691,North,T2,176548,45.9,1.78,94.2
+D097,Dehradun DC,Uttarakhand,30.3165,78.0322,North,T2,357093,67.2,1.45,83.5
+D098,Haridwar DC,Uttarakhand,29.9457,78.1642,North,T2,335568,49.0,1.12,79.6
+D099,Delhi Central WH,Delhi,28.7041,77.1025,North,T1,955851,124.5,1.85,78.6
+D100,Panaji DC,Goa,15.4909,73.8278,West,T2,304720,67.4,2.3,84.9

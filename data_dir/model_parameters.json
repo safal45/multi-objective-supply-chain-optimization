@@ -1,0 +1,37 @@
+{
+  "description": "India Vaccine Cold Chain MILP/Metaheuristic Parameters",
+  "seed": 42,
+  "nodes": {
+    "suppliers": 15,
+    "dcs": 100,
+    "retailers": 500
+  },
+  "decay": {
+    "delta_nonrefrig_base": 0.18,
+    "delta_refrig_base": 0.02,
+    "note": "distance-adjusted per arc in arcs CSVs"
+  },
+  "cost_per_km": {
+    "nonrefrigerated_INR_per_unit": 0.04,
+    "refrigeration_premium_INR_per_unit": 0.028
+  },
+  "emissions_kg_co2_per_unit_per_km": {
+    "nonrefrigerated": 6.2e-05,
+    "refrigerated": 0.000105
+  },
+  "carbon_weight_lambda_INR_per_kg_co2": 1.5,
+  "truck_speed_kmph": {
+    "supplier_to_dc": 55,
+    "dc_to_retailer": 40
+  },
+  "disposal_cost_INR_per_unit": 12.0,
+  "sources": [
+    "WHO SEARO Immunization Cold Chain Handbook 2015 \u2014 decay rates, storage temps",
+    "eVIN Annual Report 2022 \u2014 99% availability rate \u2192 delta_R=0.02",
+    "PMC Article 8547487 \u2014 Madhya Pradesh CCP network structure",
+    "HMIS MoHFW 2022 \u2014 state-level immunization coverage for demand calibration",
+    "Census of India 2011 \u2014 district population weights",
+    "Indian Logistics Industry Report 2023 \u2014 \u20b935-45/km truck rates",
+    "IPCC AR6 \u2014 0.062 kg CO2/tonne-km road freight emission factor"
+  ]
+}

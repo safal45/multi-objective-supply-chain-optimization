@@ -1,0 +1,16 @@
+supplier_id,name,city,state,lat,lon,monthly_capacity_units,is_private,zone
+S01,Serum Institute of India,Pune,Maharashtra,18.5204,73.8567,1500000,1,West
+S02,Bharat Biotech,Hyderabad,Telangana,17.385,78.4867,800000,1,South
+S03,Biological E Ltd,Hyderabad,Telangana,17.4065,78.4772,400000,1,South
+S04,Panacea Biotec,Delhi,Delhi,28.7041,77.1025,250000,1,North
+S05,Indian Immunologicals,Hyderabad,Telangana,17.37,78.5,300000,1,South
+S06,Zydus Lifesciences,Ahmedabad,Gujarat,23.0225,72.5714,350000,1,West
+S07,Haffkine Institute,Mumbai,Maharashtra,19.076,72.8777,200000,0,West
+S08,BCGVL Chennai,Chennai,Tamil Nadu,13.0827,80.2707,150000,0,South
+S09,PASCI Hyderabad,Hyderabad,Telangana,17.3616,78.4747,100000,0,South
+S10,UP State Vaccines Inst,Lucknow,Uttar Pradesh,26.8467,80.9462,180000,0,North
+S11,Karnataka State Depot,Bengaluru,Karnataka,12.9716,77.5946,120000,0,South
+S12,Rajasthan State Depot,Jaipur,Rajasthan,26.9124,75.7873,90000,0,North
+S13,MP State Depot,Bhopal,Madhya Pradesh,23.2599,77.4126,80000,0,Central
+S14,Bihar State Depot,Patna,Bihar,25.5941,85.1376,70000,0,East
+S15,West Bengal State Depot,Kolkata,West Bengal,22.5726,88.3639,110000,0,East
