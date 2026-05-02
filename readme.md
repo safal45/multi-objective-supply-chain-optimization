@@ -98,30 +98,6 @@ This project combines **exact optimization (MILP)** and **metaheuristic methods 
 
 ---
 
-## 📊 Visualizations
-
-### 🔹 Convergence
-
-![GA](graphs/ga_convergence.png)
-
-### 🔹 Pareto Front (Cost vs Waste)
-
-![Pareto](graphs/pareto_2d.png)
-
-### 🔹 3D Pareto (Cost–Waste–Emissions)
-
-![3D](graphs/pareto_3d.png)
-
-### 🔹 Cost vs DCs
-
-![Cost](graphs/cost_vs_dc.png)
-
-### 🔹 Selected Distribution Centers
-
-![DC](graphs/selected_dc.png)
-
----
-
 ## ⚙️ Key Features
 
 * ✅ Distance-based decay modeling
@@ -145,14 +121,6 @@ docs/         → Project report
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python nsga2.py
-```
-
----
 
 ## 🧪 Technologies Used
 
